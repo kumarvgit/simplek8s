@@ -5,7 +5,7 @@ metadata:
   labels:
     component: web
 spec:
-  contatiners:
+  containers:
     - name: client
       image: kumarvdocker/multimoduledocker-client
       ports:
