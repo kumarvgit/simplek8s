@@ -50,3 +50,4 @@
 ## Types of Deployement
 > - Imperitive -- we explicitly say which container to deploy where to deploy it.
 > - Declatative -- we just say we need 4 containers and master decides how to create and deploy it.
+### it is recommended to run declarative approach in production mode
